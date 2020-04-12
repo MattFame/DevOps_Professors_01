@@ -4,15 +4,15 @@
 
 * Fork this repo
 
-* Clone your fork
+* Clone your forked repo into your local machine
 
-* Create a branch with your name
+* Create a branch with your name in your local machine
 
 * Create the Python file/files which
 
-    * Asks the user to choose an operation including: </span>
+    * Asks the user continuously to choose an operation including:
     
-        Addition, subtraction, multiplication and division of two positive integers, printing fibonacci numbers (maximum number will be given by the user), printing the summation of positive integers which are less than or equal to a given number and can be devided by 3 or 5 without remainder</span>
+        Addition, subtraction, multiplication and division of two positive integers, printing fibonacci numbers (maximum number will be given by the user), printing the summation of positive integers which are less than or equal to a given number and can be devided by 3 or 5 without remainder and exitting with a specific character
   
 * Push your code into your remote repository but not into your master branch
   
