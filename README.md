@@ -24,4 +24,4 @@
     
     * a group involving the newly created user</span> 
   
-* Run your program (Install python3)
+* Run your application in your EC2 instance
