@@ -1,4 +1,4 @@
-# DevOps_Professors_01
+# DevOps_Professors_01 Case Study
 
 ## ToDos:
 
@@ -10,9 +10,9 @@
 
 4. Create the Python file/files which
 
-  a. Asks the user to choose an operation including: 
+  - Asks the user to choose an operation including: 
     
-    Addition, subtraction, multiplication and division of two positive integers, printing fibonacci numbers (maximum number will be given by the user), printing the summation of positive integers which are less than or equal to a given number and can be devided by 3 or 5 without remainder
+      Addition, subtraction, multiplication and division of two positive integers, printing fibonacci numbers (maximum number will be given by the user), printing the summation of positive integers which are less than or equal to a given number and can be devided by 3 or 5 without remainder
   
 5. Push your code into your remote repository but not into your master branch
   
@@ -20,8 +20,8 @@
 
 7. Clone the project into your EC2 machine which
 
-  a. has a newly created user with a password
+  - has a newly created user with a password
   
-  b. a group involving the newly created user
+  - a group involving the newly created user
   
 8. Run your program (Install python3)
